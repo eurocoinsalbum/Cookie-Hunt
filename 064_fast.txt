@@ -1,0 +1,3 @@
+If your chat system shows the time for each post then you can play this game:
+The first one who posts something at 12:00:00 will get a 🍪
+If you post before 12:00:00 you have lost
