@@ -1,0 +1,9 @@
+🍪-Box
+Guess how many 🍪 I have in my 🍪-Box until 16:02:00.
+
+1 guess per person! 2+ guesses = disqualified.
+🍪🍪 for correct guesses
+🍪 for off-by-one
+🍪 extra for the first best guess
+
+Hint: I may have none and up to 10 🍪 in my box.
