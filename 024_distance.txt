@@ -1,0 +1,44 @@
+🍪-Distance
+Use our office as start position and be the first who answers the following questions. Internet research allowed.
+
+1. nearest U-Bahn(!) station
+Alte Oper
+
+2. nearest S-Bahn(!) station
+Taunusanlage
+
+3. nearest bridge for cars
+Untermainbrücke
+
+4. nearest river
+Main
+
+5. nearest island
+Maininsel
+
+6. IATA code of the nearest international airport
+FRA
+
+7. nearest pond (Teich)
+Albert-Angelsdorf-Weiher
+
+8. nearest capital of a country
+Luxemburg
+
+9. nearest capital of a country OUTSIDE EU
+Bern
+
+10. brand of nearest car manufacturer
+Opel
+
+11. nearest city to the east
+Offenbach
+
+12. street name of nearest Cartier boutique
+Goethestrasse
+
+13. nearest harbour
+Westhafen
+
+14. nearest pole
+Northpole
