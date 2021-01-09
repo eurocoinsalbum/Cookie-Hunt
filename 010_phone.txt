@@ -1,0 +1,6 @@
+❄-Phone
+Take any real phone number you now and cut of the entire prefix like country code and area code
+Now you have a pure INTEGER
+Example: +33-69-1234567 results is 1234567
+
+The one with the highest integer will win.
