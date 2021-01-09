@@ -1,0 +1,104 @@
+🍪-Sorting
+This is like the beginning of "Who wants to be a Millionaire" but with 5 items.
+answers have to be like: "ABCDE"
+One post/try only!
+First correct answer will get the 🍪
+
+1. Sort from South to North
+A-London
+B-New York
+C-Lugano
+D-Frankfurt
+E-Pune
+
+ECDAB
+🍪
+
+2. Sort from youngest to oldest
+A-Michael Phelps
+B-Tiger Woods
+C-Andre Agassi
+D-Neymar
+E-Diego Maradona
+
+DABCE
+🍪
+
+3. Sort from smallest to biggest
+A-Basketball
+B-Baseball
+C-Football
+D-Golf ball
+E-Volleyball
+
+DBECA
+🍪
+
+4. Sort from smallest to tallest - including hairs!
+A-March
+B-Bart
+C-Maggie
+D-Homer
+E-Lisa
+
+CEBDA
+🍪
+
+5. Sort from slowest to fastest
+A-Cat
+B-Mouse
+C-Ant
+D-Crocodile
+E-Worm
+
+ECBAD
+🍪
+
+6. Sort from near to far
+A-Sun
+B-Moon
+C-Saturn
+D-Neptune
+E-Alpha-Centauri
+
+BACDE
+🍪
+
+7. Sort from poor to rich
+A-Angela Merkel
+B-Donald Trump
+C-Bill Gates
+D-Michael Bloomberg
+E-Roger Federer
+
+AEBDC
+🍪
+
+8. Sort from thin to thick
+A-Elephant
+B-Coke bottle
+C-Donald Duck
+D-The Sun
+E-Hair
+
+EBCAD
+🍪
+
+9. Sort from top to bottom
+A-Heart
+B-Food
+C-Head
+D-Knee
+E-Navel(Bauchnabel)
+
+CAEDB
+🍪
+
+10. Sort alphabetically
+A-D
+B-A
+C-E
+D-B
+E-C
+
+BDEAC
