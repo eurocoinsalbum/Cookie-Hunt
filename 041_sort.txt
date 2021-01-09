@@ -1,0 +1,48 @@
+🍪-sort
+
+did you know that the cookie-sort is the most powerful sorting algo ever? ;-)
+
+Sort from old to new
+☎️ 🛰️ 🎥 💻 🔭 
+🔭 1600 
+☎️ 1837
+🎥 1930
+🛰️ 1957
+💻 1972
+
+Sort from new to full moon
+🌔 🌑 🌕 🌒 🌓 
+🌑 🌒 🌓 🌔 🌕 
+
+Sort from happy to sad
+😥 😭 😀 😐 
+😀 😐 😥 😭 
+
+Sort from young to old
+👴 👦 👶 👨 
+👶 👦 👨 👴 
+
+Sort from few to many fingers
+🖐️ 👐 ☝️ ✌️ 
+☝️ ✌️ 🖐️ 👐 
+
+
+Sort from small to large
+🐳 🐍 🐌 🐜 
+🐜 🐌 🐍 🐳 
+
+Sort from large to small
+🎾 🎱 🏀 🏓 🏐 
+🏀 🏐 🎱 🎾 🏓 
+
+Sort from early to late
+🕑 🕔 🕒 🕕 🕐 🕓 
+🕐 🕑 🕒 🕓 🕔 🕕 
+
+Sort from in-love to hater
+❤️ ☠️ 💘 💔 
+💘 ❤️ 💔 ☠️ 
+
+Sort clock-wise starting with up
+⬅️ ↙️ ➡️ ⬆️ ↖️ ↗️ ↘️ ⬇️ 
+⬆️ ↗️ ➡️ ↘️ ⬇️ ↙️ ⬅️ ↖️ 
