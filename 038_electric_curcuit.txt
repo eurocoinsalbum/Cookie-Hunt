@@ -1,0 +1,42 @@
+🍪-curcuit
+
+Checkout the following electrical curcuit and answer which SWITCHES have to be CLOSED to turn on the requested lamps and no others.
+L=Lamp, S=Switch
+Example:
+Question: Turn on L1 L2 L3 L4 L5 L6
+Your Post: S1 S2 S3 S4 S5
+
+1. curcuit
+Turn on L3 L4 L6
+S1 S3
+
+2. curcuit
+Turn on L2 L5 L6
+S2 S5
+
+3. curcuit
+Turn on L4 L5 L6
+S1 S5
+
+4. curcuit
+Turn on L1 L3 L4 L6
+S1 S3 S4
+
+5. curcuit
+Turn on L2 L4 L5 L6
+S1 S2 S5
+
+What is the standard voltage in germany?
+220V
+
+How many connectors has a transistor?
+3
+
+V(Volt) = R(Resistance) * ?
+I Current
+
+Which geometric figure represents a diode?
+Triangle
+
+What does "AC" stand for?
+Alternating current
