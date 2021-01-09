@@ -1,0 +1,56 @@
+🍪-Couples
+Post each couple like: "5-10"
+1 llib
+2 elcaro
+3 sozeb
+4 noitcau
+5 xunil
+6 pas
+7 koobecaf
+8 nus
+9 akfak
+10 miehneffoh
+11 mbi
+12 tfosorcim
+13 atat
+14 yabe
+15 gnimaerts
+16 ppastahw
+17 iabmum
+18 ffej
+19 sunil
+20 senihcam
+
+hint: read backwards
+
+1 Bill
+2 Oracle
+3 Bezos
+4 Auction
+5 Linux
+6 SAP
+7 Facebook
+8 Sun
+9 Kafka
+10 Hoffenheim
+11 IBM
+12 Microsoft
+13 Tata
+14 Ebay
+15 Streaming
+16 What's
+17 Mumbai
+18 Jeff
+19 Linus
+20 Machines
+
+1-12
+2-8
+3-18
+4-14
+5-19
+6-10
+7-16
+9-15
+11-20
+13-17
