@@ -1,0 +1,2 @@
+create a word-search puzzle via one of the many online generators.
+As correct answers people have to post the row and column where the word is starting.
