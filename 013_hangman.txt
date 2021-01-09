@@ -1,0 +1,53 @@
+❄-Hangman
+typos NOT allowed!
+Answers are NOT case-sensitive
+
+* k***** * ***l
+* k*ss*d * g**l
+I kissed a girl
+
+
+I*****a J***s
+I**i**a J*n*s
+Indiana Jones
+
+
+C*** C***
+C**a C**a
+Coca Cola
+
+
+R***** S***t
+R*tt*r S***t
+Ritter Sport
+
+
+S*******n
+S*i**r**n
+S*i**rm*n
+Spiderman
+
+❄
+J**a
+Java
+
+
+L**** & L****
+L***h & L***n
+Lunch & Learn
+
+
+C*******s
+C***st**s
+Christmas
+
+
+***k ***m ***e
+*ork f**m *o*e
+Work from home
+
+
+** h*** ** ** c*****
+M* h*** ** ** c*****
+M* h**e ** ** c****e
+My home is my castle
