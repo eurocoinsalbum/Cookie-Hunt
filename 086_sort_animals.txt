@@ -1,0 +1,71 @@
+🍪-animal-sorting
+
+ACDB
+Sort from small to big
+A - Ant
+B - Buffalo
+C - Cat
+D - Dog
+
+CBAD
+Sort from few to many legs
+A - Ant
+B - Buffalo
+C - Bird
+D - Spider
+
+BCDA
+Sort from short to long wings
+A - Eagle
+B - Kleiber
+C - Dove
+D - Hawk
+
+DCBA
+Sort from short to long life
+A - Tortoise
+B - Buffalo
+C - Cat
+D - Ephemera/dayfly (Eintagsfliege)
+🍪
+ACDB
+Sort from slow to fast
+A - Ant
+B - Gepard
+C - Mouse
+D - Giraffe
+
+CDAB
+Sort from light to heavy
+A - Orca
+B - Blue whale
+C - Nemo
+D - Tuna
+
+DCAB
+Sort from low to high
+A - Antelope
+B - Giraffe
+C - Cat
+D - Snake
+
+ABDC
+Sort from short to long
+A - Ladybug
+B - Squirrel
+C - Python
+D - Crocodile
+
+DBAC
+Sort from harmless to toxic
+A - Jellyfish
+B - Ant
+C - Cobra
+D - Horse
+
+BDAC
+Sort from few to many eggs
+A - Tortoise
+B - Bird
+C - Fish
+D - Snake
