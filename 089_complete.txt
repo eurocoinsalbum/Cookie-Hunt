@@ -1,0 +1,46 @@
+🍪-Complete
+Complete the word!
+It must have the given number of letters!
+No abbreviations!
+The bartender is always right!
+Typos not allowed
+Multiple posts allowed
+The word has to match the topic "Computer Science"!
+
+Example: I post "7 C". You post "Computer"
+
+Laptop
+6 L
+
+Network
+7 N
+
+Mouse
+5 M
+
+Internet
+8 I
+
+Cloud
+5 C
+
+Bit/Bug
+3 B
+
+Linux
+5 L
+
+Protocol
+8 P
+
+Shell
+5 S
+
+Alphabet
+8 A
+
+Ping / Port
+4 P
+
+Cookie
+6 C
