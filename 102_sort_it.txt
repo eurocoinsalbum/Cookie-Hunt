@@ -1,0 +1,71 @@
+🍪-Sort-it
+
+bcda
+Sort from small to big
+a) turkey
+b) egg
+c) chick
+d) hen
+
+cbad
+Sort from near to far
+a) Voyager II
+b) Perseverance
+c) ISS
+d) Alpha-Centauri
+
+dcab
+Sort from young to old
+a) Julia Roberts
+b) Meryl Streep
+c) Angelina Jolie
+d) Emma Watson
+
+acdb
+Sort from light to heavy
+a) H
+b) U
+c) O
+d) K
+
+cdba
+Sort from few to many
+a) Football
+b) Volleyball
+c) Golf
+d) Beachball
+
+bacd
+Sort from dusk till dawn
+a) Midnight
+b) Sunset
+c) 3am
+d) Sunrise
+
+dacb
+Sort from West to East
+a) Mainhatten
+b) Colombo
+c) Offenbach
+d) Manhatten
+
+cadb
+Sort from a to d
+a) b
+b) d
+c) a
+d) c
+
+cabd
+Sort from 8 to 11
+a) IX
+b) X
+c) VIII
+d) XI
+
+cadb
+Sort from low to high
+a) Statue of Liberty
+b) Eiffel Tower
+c) Christ the Redeemer
+d) Maintower
