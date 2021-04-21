@@ -1,0 +1,50 @@
+🍪-ROT13
+
+ROT13 ("rotate by 13 places") is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.
+
+Example:
+I post: ROT2-qdcoc
+You post: obama
+reason: 2 characters befor q is o ...
+
+schwarzenegger
+ROT1-tdixbsafofhhfs
+
+douglas
+ROT2-fqwincu
+
+jolie
+ROT3-mrolh
+
+pitt
+ROT4-tmxx
+
+hanks
+ROT3-kdqnv
+
+hudson
+ROT2-jwfuqp
+
+eastwood
+ROT1-fbtuxppe
+
+streep
+ROT4-wxviit
+
+lee
+ROT5-qjj
+
+roberts
+ROT2-tqdgtvu
+
+freeman
+ROT1-gsffnbo
+
+depp
+ROT3-ghss
+
+taylor
+ROT2-vcanqt
+
+ford
+ROT4-jsvh
