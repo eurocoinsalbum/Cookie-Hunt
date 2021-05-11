@@ -1,0 +1,22 @@
+🍪-Movie-Titles
+Post the title of a movie which contains 100% of the given word.
+
+car
+
+last
+
+and
+
+king
+
+day
+
+dark
+
+nic
+
+story
+
+to
+
+world
