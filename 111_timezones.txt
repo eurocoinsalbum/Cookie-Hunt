@@ -1,0 +1,34 @@
+🍪-Time Zones
+(CET = CEST, we just ignore daylight saving time)
+all hours in 24h format!
+
+11
+12 CET = ? GMT
+
+UTC
+abbreviation for: Coordinated Universal Time
+
+23
+23 GMT = ? UTC
+
+17
+11 EST = ? CET
+
+ZULU
+Military name for UTC
+
+10:30
+6 GMT = ? India
+
+0
+23 Berlin = ? Moscow
+
++2
+What's Germany's current offset to UTC incl. +/-?
+
+13:46:12
+13:46:12 Northpole = ? Southpole
+
+Tonga, Samoa, Kiribati
+Internet NOT allowed!!!
+Which country celebrates New Year first?
