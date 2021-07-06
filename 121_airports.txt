@@ -1,0 +1,40 @@
+Post the name of CITY!!!
+
+🍪-IATA
+international airports 3 letter codes
+
+Frankfurt
+FRA
+
+New York City
+JFK
+
+London
+LHR
+
+Tokyo
+TYO
+
+Pune
+PNQ
+
+Paris
+CDG
+
+Cape Town
+CPT
+
+Buenos Aires
+BEU
+
+St. Petersburg
+LED
+
+Palma de Mallorca
+PMI
+
+Hahn
+HHN
+
+Wiesbaden
+WIE
