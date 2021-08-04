@@ -1,0 +1,99 @@
+🍪-Sorting
+
+bdac
+Sort from cheap to expensive
+a) Laptop
+b) Egg
+c) Tesla
+d) T-Shirt
+
+bdca
+Sort from outer to inner
+a) DNA
+b) Cell membrane
+c) Nucleus membrane
+d) Endoplasmatic reticulum
+
+abdc
+Sort from south-west to north-east
+a) Heathrow
+b) Acton Town
+c) Cockfosters
+d) Picadilly Circus
+
+dacb
+Sort from low to high
+a) 0x010
+b) 0x101
+c) 0x011
+d) 0x001
+
+dabc
+Sort from young to old
+a) Bud
+b) Kelly
+c) Al
+d) Buck (dog)
+
+cbad
+Sort from old to young
+a) Earth
+b) Sun
+c) Universe
+d) Queen Mum
+
+acbd
+Sort from healthy to deadly
+a) Tomato
+b) Wood
+c) Nutella
+d) Amoniac
+
+cabd
+Sort from a to d
+a) b
+b) c
+c) a
+d) d
+
+dabc
+Sort from light to heavy atomic weight
+a) Oxygen
+b) Aurum 
+c) Uranium
+d) Helium
+
+bcda
+Sort from hot to cold
+a) 0° Kelvin
+b) Sun
+c) Fire
+d) Toaster
+
+adbc
+Sort your right hand with palm (Handfläche) upwards from right to left
+a) thumb
+b) ring finger
+c) baby finger
+d) pointing finger
+
+bdca
+Sort from top to bottom
+a) Basement
+b) Roof
+c) Foyer
+d) Penthouse
+
+bcad
+Sort from start to end
+a) Beta
+b) Dev
+c) Alpha
+d) Prod
+
+acdb
+Sort from past to future
+a) yesterday
+b) day after tomorrow
+c) today
+d) tomorrow
