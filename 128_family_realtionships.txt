@@ -1,0 +1,56 @@
+🍪-family relationships
+
+Grandma
+B is the father of C
+A is married to B
+D is the son of C
+What is A to D?
+
+Brother in law
+A ist the father of C.
+D is the son of B.
+E is the brother of A and
+C is the sister of D.
+What is B to E?
+
+Niece
+A is the sister of B
+C is the brother of B
+D is the daughter of A
+What is D to C?
+
+Cousin
+B is the son of A
+C is the sister of B
+D is the brother of A
+E is the child of D
+What is C to E?
+
+Jackie
+A is married to B
+C is the son of B
+D is the daughter of A
+A was president of USA
+Dallas
+What is the nick name of B?
+
+Luke
+B is the husband of C
+A is the father of D
+C is the daughter of D
+B is Han Solo.
+Who is D?
+Bonus question: What is the first name of A? (Anikin)
+
+Meghan/Kate
+B is the son of A
+D is married to E
+A is the mother of B
+D is the son of B
+C is the brother of D
+Who is E if A is Queen Mum?
+Bonus question: what is her title? (Duchess of Sussex)
+
+Mother
+Who says this?
+You are my son but I am not your father?
