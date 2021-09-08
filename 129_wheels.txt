@@ -1,0 +1,54 @@
+🍪-Wheels
+
+Tractor
+2 big wheels
+2 very big wheels
+optionally GPS controlled
+
+Stroller/Baby carriage
+4 small wheels
+a foldable roof
+the passenger is lying
+
+Scooter
+2 small wheels
+vehicle is foldable
+
+tricycle
+3 wheels
+no motor
+
+tuk-tuk/rickshaw
+3 wheels
+passengers pay
+
+forklift
+4 wheels
+2 spikes
+1 driver
+0 passengers
+
+(trolley) jack
+4 very small wheels
+machanical device
+same name as a playing card
+
+coach
+4 wheels
+2 doors
+long distance
+10+ passengers
+
+steam locomotiv
+6+ wheels
+1 chimney
+
+glider/sailplane
+2/3 wheels
+no motor
+license mandatory
+width: 10+ meter
+
+Inline skates
+2 x 4 wheels
+no motor
