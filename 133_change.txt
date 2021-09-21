@@ -1,0 +1,50 @@
+🍪-Change
+
+example:
+I post: "price 12,26€; given 20€"
+You post: "5€ 2€ 50ct 20ct 2ct 2ct"
+
+pay attention that you have to post twice "2ct"!
+
+the change has to be in as less notes/coins as possible
+Instead of a "€" you can use capital "E".
+
+5,56€
+5€ 50ct 5ct 1ct
+price 4,44€; given 10€
+
+11,19€
+10€ 1€ 10ct 5ct 2ct 2ct
+price 8,81€; given 20€
+
+6,38€
+5€ 1€ 20ct 10ct 5ct 2ct 1ct
+price 13,62€; given 20€
+
+17,27
+10€ 5€ 2€ 20ct 5ct 2ct
+price 182,73€; given 200€
+
+14,05
+10€ 2€ 2€ 5ct
+price 56,55€; given 70,60€
+
+0,01€
+1ct
+price 1,11€; given 1,12€
+
+26,55€
+20€ 5€ 1€ 50ct 5ct
+price 23,45€; given 50€
+
+10,09
+10€ 5ct 2ct 2ct
+price 20,01€; given 30,10€
+
+2,02
+2€ 2ct
+price 2,98€; given 5€
+
+99,99€
+50€ 20€ 20€ 5€ 2€ 2€ 50ct 20ct 20ct 5ct 2ct 2ct
+price 0,01€; given 100€
