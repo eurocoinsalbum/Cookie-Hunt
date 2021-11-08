@@ -1,0 +1,36 @@
+🍪-grid
+You always start on A1
+Next to A1 on the right side is B1
+Above B1 is B2
+and so on...
+let's start!
+
+C3
+up, right, right, up
+
+A3
+right, up, up, left
+
+B4
+up, right, up, up
+
+A4
+Up, right, up, up, left, up, down
+
+B6
+up, up, up, up, up, right
+
+D2
+right, right, right, up, left, up, right, down
+
+C2
+up, right, up, right, up, right, down, left, down
+
+A2
+right, left, up, down, right, up, left
+
+B3
+right, up, left, right, up
+
+C1
+right, right, up, left, up, right, down, down
