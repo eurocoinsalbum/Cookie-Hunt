@@ -1,0 +1,28 @@
+❄-Christmas-A1-Z26
+
+xmas
+24 13 1 19 
+
+Gift
+7 9 6 20 
+
+CANDLE
+3 1 14 4 12 5 
+
+FIRE
+6 9 18 5 
+
+Mistletoe
+13 9 19 20 12 5 20 15 5 
+
+Tree
+20 18 5 5 
+
+Reindeer
+18 5 9 14 4 5 5 18 
+
+Santa
+19 1 14 20 1 
+
+Snowman
+19 14 15 23 13 1 14
