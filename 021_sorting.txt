@@ -11,7 +11,7 @@ C-Lugano
 D-Frankfurt
 E-Pune
 
-ECDAB
+EBCDA
 🍪
 
 2. Sort from youngest to oldest
@@ -86,7 +86,7 @@ EBCAD
 
 9. Sort from top to bottom
 A-Heart
-B-Food
+B-Foot
 C-Head
 D-Knee
 E-Navel(Bauchnabel)
