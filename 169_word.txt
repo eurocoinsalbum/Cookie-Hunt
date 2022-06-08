@@ -1,0 +1,21 @@
+🍪-Word
+I post a category and a letter...
+... and you post a word from that category which starts with that letter.
+
+Tool - A
+City - D
+Sport - R
+Computer - L
+Botanic - F
+Family - S
+Movie - E
+Maths - P
+Shop - C
+Food - M
+Furniture - T
+Universe - B
+Europe - I
+Animal - W
+
+Last round...
+🍪 - O
