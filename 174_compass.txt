@@ -1,0 +1,37 @@
+🍪-compass
+
+4
+How many characters on a simple compass?
+
+180
+if N=0 then S=?
+
+Magnetic Northpole
+Be very specific: where does a compasses needle point to?
+
+270
+W?
+
+red
+The color of the compass needle (north side) is usually
+
+E
+90?
+
+Pirates of the carrebean
+If the compass needle points towards Tortuga then you are in this movie
+
+SW
+opposite of NE
+
+315
+Degree number of NW
+
+Minutes
+The next smaller unit of Degrees is...?
+
+N
+Clockwise from W is...?
+
+135
+How many degrees are between E and SW?
