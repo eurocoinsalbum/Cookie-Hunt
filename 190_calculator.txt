@@ -1,0 +1,45 @@
+🍪-calculator
+
+hexadecimal
+where is this true?
+9 + 7 = 10
+
+octal
+where is this true?
+2 + 7 = 11
+
+0x30
+0x1f + 0x11 = ?
+
+0x01
+0xff - 0xfe = ?
+
+0xc
+0x09 + 0x03 = ?
+
+0b11010101
+0b11010010 + 0b00000011
+
+29
+smallest prime number larger than 25
+
+3,14
+pi with 2 decimal places
+
+20°
+on a compass: 280° + 100° = ?
+
+7200
+Seconds in 2 hours
+
+168
+Hours in a week
+
+32
+0°C = ___°F ?
+
+16
+square root of 256
+
+24
+4!
