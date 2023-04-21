@@ -1,0 +1,47 @@
+🍪-units
+No abbreviations!!!
+
+1 Ounce
+28,35 Gramm
+
+1 Mile
+1609,344 Meter
+
+1 lightyear
+9,46e12 Kilometer
+
+1 yard
+0,91 Meter
+
+1 douzen
+12
+
+1 Astronomical unit
+Distance sun <-> earth
+
+1 feet
+0,30 Meter
+
+0 Celsius
+32 Fahrenheit
+
+1 Ton
+1000 Kilogramm
+
+1 day
+86400 Seconds
+
+1 g
+9,81 m/s²
+
+1 inch/Zoll
+2,54 Centimeter
+
+1 Nautical Mile
+1852 Meter
+
+1 Liter
+1000 cm³
+
+Millennium Falcon
+Made the Kessel Run (Korsal-Flug) in less than 12 parsecs
