@@ -1,0 +1,33 @@
+🍪 Buildings
+Post the name of the building
+...sometimes you might need to turn around!
+
+Roemer
+https://www.google.de/maps/@50.1104126,8.6818689,3a,75y,358.75h,108.3t/data=!3m8!1e1!3m6!1sAF1QipNaY5JM9A7cYXOYvcheiRFQ2VWW2a9OihuLv7_S!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNaY5JM9A7cYXOYvcheiRFQ2VWW2a9OihuLv7_S%3Dw203-h100-k-no-pi0-ya144.7234-ro0-fo100!7i6080!8i3040?entry=ttu
+
+Tour de Eiffel
+https://www.google.de/maps/@48.8590253,2.2931878,3a,75y,345.83h,89.05t/data=!3m7!1e1!3m5!1s6_wCHzBBaxybaWkSiydZ-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D6_wCHzBBaxybaWkSiydZ-w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D71.90868%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu
+
+White house
+https://www.google.de/maps/@38.896361,-77.0364944,2a,75y,96.67h,95.23t/data=!3m7!1e1!3m5!1szp2n6-6gBFgHZruNEMaaGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dzp2n6-6gBFgHZruNEMaaGg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D319.60022%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu
+
+Opera
+https://www.google.de/maps/@-33.855176,151.2104076,3a,75y,318.95h,117.07t/data=!3m8!1e1!3m6!1sAF1QipOaXcDJMGXqyhC9p5EQOt1Tn6-cSez2URfM4tLt!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOaXcDJMGXqyhC9p5EQOt1Tn6-cSez2URfM4tLt%3Dw203-h100-k-no-pi-17.046242-ya293.58212-ro-0.63700145-fo100!7i7776!8i3888?entry=ttu
+
+Burj Kalifa
+https://www.google.de/maps/@25.1984961,55.2750748,3a,75y,358.48h,108.99t/data=!3m7!1e1!3m5!1sJcxBweSqE3mqJ1FMz_fUtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DJcxBweSqE3mqJ1FMz_fUtg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D50.86922%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu
+
+Buerohaus alte Oper
+https://www.google.de/maps/@50.1136048,8.6719517,3a,75y,113.28h,90.13t/data=!3m7!1e1!3m5!1sCBY3lp7kY9pDt_HquZOmdw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCBY3lp7kY9pDt_HquZOmdw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D154.9343%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu
+
+The MET
+https://www.google.de/maps/@40.7788871,-73.9621487,3a,75y,99.34h,86.45t/data=!3m6!1e1!3m4!1saUx4zJoTMeFfy9MCaZoESA!2e0!7i16384!8i8192?entry=ttu
+
+Collosseum
+https://www.google.de/maps/@41.8890511,12.4904352,3a,75y,193.95h,86.78t/data=!3m7!1e1!3m5!1s3XKDIGbN5Dzd6bdhbOVF-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D3XKDIGbN5Dzd6bdhbOVF-Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D93.516205%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu
+
+Bloomberg Tower
+https://www.google.de/maps/@40.7622022,-73.9684496,3a,75y,203.09h,82.93t/data=!3m6!1e1!3m4!1s9xK4_uZVX5sN6DSz_QQglw!2e0!7i16384!8i8192?entry=ttu
+
+Acropolis
+https://www.google.de/maps/@37.9695555,23.7269151,3a,75y,6.24h,88.94t/data=!3m7!1e1!3m5!1sMG1O_gtTIvyIFzNw95WZ9g!2e0!3e11!7i13312!8i6656?entry=ttu
