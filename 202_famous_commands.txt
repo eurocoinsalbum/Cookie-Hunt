@@ -1,0 +1,39 @@
+🍪-famous command line tools
+git
+created by Linus Torvalds within a couple of days
+
+ls
+show content of directory
+
+g++/gcc
+translate C/C++ code to binary
+
+ps
+list running processes
+
+awk
+The developers are:
+Aho
+Weinberger
+Kernighan
+
+vi
+the mother of all text editors
+
+ping
+check if host can be reached
+
+grep
+string search
+
+curl/wget
+get web page
+
+man
+shows information about command line tools
+
+sudo
+god-mode
+
+kill
+Thou shalt not...
