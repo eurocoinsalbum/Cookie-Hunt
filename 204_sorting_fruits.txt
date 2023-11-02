@@ -1,0 +1,50 @@
+🍪-sorting fruits
+
+DBAC
+Sort from light to heavy
+A: Banana
+B: Kiwi
+C: Watermelon
+D: Cherry
+
+BDAC
+Sort from less letters to many
+A: Bananas
+B: Kiwi
+C: Watermelon
+D: Cherry
+
+DBAC
+Sort from small to large
+A: Banana
+B: Kiwi
+C: Watermelon
+D: Cherry
+
+ADBC
+Sort from A to Z
+A: Banana
+B: Kiwi
+C: Watermelon
+D: Cherry
+
+ADCB
+Sort by number of seeds from 0 to many
+A: Banana
+B: Kiwi
+C: Watermelon
+D: Cherry
+
+DBCA
+Sort by this 🍒️ 🥝️ 🍉️ 💛️ (sorry, one icon has correct color but wrong form)
+A: Banana
+B: Kiwi
+C: Watermelon
+D: Cherry
+
+DCBA
+Sort by last letter from Z to A
+A: Banana
+B: Kiwi
+C: Watermelon
+D: Cherry
