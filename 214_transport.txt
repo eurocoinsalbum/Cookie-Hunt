@@ -1,0 +1,22 @@
+Pictures (part of logo etc.) from varios transport companies
+
+Bus
+1 driver, 40 passengers
+
+Plane
+1 captain, 200 passengers
+
+Cruise
+1 captain, 4000 passengers
+
+HTTP
+Transport of hypertext documents
+
+Caravan
+dutch "car extension"
+
+Tandem
+2 persons, 1 handlebar (Lenker), 2 wheels
+
+Sleigh
+Santa's transport for presents
